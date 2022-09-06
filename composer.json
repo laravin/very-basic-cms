@@ -1,0 +1,20 @@
+{
+    "name": "laravin/admin-cms",
+    "description": "Admin cms Laravin",
+    "type": "library",
+    "require": {
+        "php": "^8.0.2"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravin\\AdminCms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nguyễn Đức Vinh - Laravin",
+            "email": "nguyenducvinh704@gmail.com"
+        }
+    ]
+}
